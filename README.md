@@ -2,9 +2,7 @@
 
 I am a software developer with a focus on blockchain tech, game development and web/mobile apps. I love Ecmascript and have been using it for over 15 years, watching it grow into a beautiful language. Advocate of open source code and privacy.
 
-Currently working at Dock on various open source blockchain technologies. In my spare time I am working on my games and a soon-to-be open sourced game engine which leverages ES6 for scripting.
-
-I also have a little side project going providing free and open source services at https://foss.run
+Currently CTO at KeldynAI. In my spare time I am working on my games and a soon-to-be open sourced game engine which leverages ES6 for scripting.
 
 📫 How to reach me: sshellawell@gmail.com
 
